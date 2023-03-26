@@ -71,4 +71,71 @@ https://phygital.plus/
 Beautiful.ai：AI生成PPT
 https://www.beautiful.ai/
 
+# AI Audio
 
+Brain.fm：专注、放松、冥想和睡眠，聆听为您的大脑量身打造的音乐
+https://www.brain.fm/
+
+Soundraw：人工智障生成音乐
+https://soundraw.io/
+
+Endel：个性化背景音，帮助您集中注意力、放松和睡眠
+https://endel.io/
+
+Riffusion：实时音乐和音频生成库
+https://www.riffusion.com/
+https://github.com/riffusion/riffusion
+
+Papercup：人工智障配音和视频翻译软件
+https://www.papercup.com/
+
+LALAL.AI：从任何音频和视频中提取人声、伴奏和各种乐器
+https://www.lalal.ai/
+
+Murf：使用多功能AI语音生成器从文本到语音
+https://murf.ai/
+
+PolyAI：语音助手
+https://poly.ai/
+
+Voicemod：语音实时变声器
+https://www.voicemod.net/zh/
+
+Boomy：人工智障生成音乐
+https://boomy.com/
+
+Mubert：人工智障生成音乐
+https://mubert.com/
+
+
+# AI Video
+
+Runway： AI 魔法工具
+https://runwayml.com/
+
+Cascadeur：人工智障辅助关键帧动画软件
+https://cascadeur.com/
+
+Synthesia：人工智障视频生成
+https://www.synthesia.io/
+
+Pollinations：文本转视频、图片
+https://pollinations.ai/
+
+Zubtitle：为视频添加字幕和在线编辑视频
+https://zubtitle.com/
+
+Munch：人工智障提取视频中的最引人入胜、最流行和最有影响力的片段
+https://www.getmunch.com/
+
+Fliki：将文本变成带有 AI 语音的视频
+https://fliki.ai/
+
+Peech：个性化的自动视频编辑和管理平台
+https://www.peech-ai.com/
+
+DreamFace：AI 动画照片应用程序
+https://dreamfaceapp.com/
+
+D-ID：人工智障视频生成
+https://www.d-id.com/
