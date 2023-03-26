@@ -2,9 +2,11 @@
 
 # AI Text
 
-ChatGPT： https://chat.openai.com/
+ChatGPT 
+https://chat.openai.com/
 
-NotionAI： https://www.notion.so/product/ai
+NotionAI 
+https://www.notion.so/product/ai
 
 A.I. Data Sidekick：AI工具编写 SQL、文档等的速度提高10倍
 https://www.airops.com/
@@ -24,7 +26,8 @@ https://fireflies.ai/
 Jasper： AI文案写作工具
 https://www.jasper.ai/
 
-Outplay： https://outplayhq.com/
+Outplay 
+https://outplayhq.com/
 
 CoWriter：AI辅助写作
 https://cowriter.org/login
