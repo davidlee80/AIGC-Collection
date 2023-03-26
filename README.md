@@ -1,9 +1,8 @@
 # AIGC-Collection
-Collection for AIGC
 
+# AI Text
 
 ChatGPT： https://chat.openai.com/
-
 NotionAI： https://www.notion.so/product/ai
 A.I. Data Sidekick：AI工具编写 SQL、文档等的速度提高10倍
 https://www.airops.com/
